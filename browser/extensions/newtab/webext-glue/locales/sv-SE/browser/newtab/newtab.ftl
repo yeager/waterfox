@@ -196,7 +196,7 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = Giltig URL krävs
 newtab-topsites-image-url-label = Anpassa bild-URL
 newtab-topsites-use-image-link = Använd en anpassad bild…
-newtab-topsites-image-validation = Bilden misslyckades att ladda. Prova en annan URL.
+newtab-topsites-image-validation = Det gick inte att läsa in bilden. Prova en annan URL.
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
@@ -394,9 +394,9 @@ newtab-empty-section-topstories-generic = Det finns inte fler. Kom tillbaka sena
 newtab-discovery-empty-section-topstories-header = Du är ikapp!
 newtab-discovery-empty-section-topstories-content = Kom tillbaka senare för fler berättelser.
 newtab-discovery-empty-section-topstories-try-again-button = Försök igen
-newtab-discovery-empty-section-topstories-loading = Laddar…
+newtab-discovery-empty-section-topstories-loading = Läser in…
 # Displays when a layout in a section took too long to fetch articles.
-newtab-discovery-empty-section-topstories-timed-out = Hoppsan! Vi laddade nästan detta avsnitt, men inte riktigt.
+newtab-discovery-empty-section-topstories-timed-out = Hoppsan! Vi hann nästan läsa in det här avsnittet, men inte riktigt.
 
 ## Pocket Content Section.
 
@@ -434,7 +434,7 @@ newtab-pocket-onboarding-cta = { -pocket-brand-name } utforskar en mängd olika 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = Oj, något gick fel när innehållet skulle laddas.
+newtab-error-fallback-info = Oj, något gick fel när innehållet skulle läsas in.
 newtab-error-fallback-refresh-link = Uppdatera sidan för att försöka igen.
 
 ## Customization Menu
